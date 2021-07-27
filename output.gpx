@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="https://www.on2wheels.es/">
   <trk>
     <name>test_name</name>
-    <cmt>Paseo Puerto Viejo a rotonda de Leioa tres veces y luego por bidegorri a Sope y volver a punto de partida.</cmt>
+    <cmt></cmt>
     <desc>test_description</desc>
     <trkseg>
       <trkpt lat="43.351761" lon="-3.012168">
