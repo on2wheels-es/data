@@ -1,6 +1,6 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Final Project: On2wheels.es Stage planner for cycling 🚴‍♂️
+# Final Project: On2wheels.es 🚴‍♂️
 
 
 ---
