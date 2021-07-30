@@ -8,7 +8,7 @@
 
 ## Context ✏
 
-On2wheels.es is a cycling stage planner that will find the best cycling destinations in Spain for a given date based on historical weather data and a private database of more than 8000 bike routes. Future stages of development will bring added functionality in the shape of accomodation recommendations (via Booking) and the best places to eat (via Tripadvisor).
+**On2wheels.es** is a cycling stage planner that will find the best cycling destinations in Spain for a given date based on historical weather data and a private database of more than 8000 bike routes. Future stages of development will bring added functionality in the shape of accomodation recommendations (via Booking) and the best places to eat (via Tripadvisor).
 
 
 ---
