@@ -55,7 +55,7 @@ The aim of the **data** section of this project is the following, divided into p
 
 ## Setup & environment ⚙
 
-This project is being created using **Python 3.8.8** and **Tableau Public**. Some of the original data and dataframes are missing because they came from private sources.
+This project is being created using **Python 3.8.8**. Some of the original data and dataframes are missing because they came from private sources.
 
 
 ---
